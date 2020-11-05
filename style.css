@@ -1,0 +1,93 @@
+
+    body {
+        height: 100%;
+        width: 100%;
+        background: #c7a786;
+    }
+
+    header {
+        text-align: center;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    .contenues {
+        height: 100%;
+        width: 100%;
+    }
+
+    .bureau1, .bureau2 {
+        border: solid black 1px;
+    }
+
+    .bureau1 {
+        height: 120px;
+        width: 80px;
+        margin-top: 10%;
+    }
+
+    .bureau2 {
+        width: 120px;
+        height: 80px;
+        margin-left: 5%;
+    }
+
+    .ligne1 {
+        position: absolute;
+        left: 20%;
+    }
+
+    .ligne2 {
+        position: absolute;
+        left: 35%;
+        top: 40%;
+    }
+
+    .ligne3 {
+        position: absolute;
+        left: 50%;
+        top: 40%;
+    }
+
+    .ligne4 {
+        position: absolute;
+        left: 65%;
+        top: 30%;
+    }
+
+    .ligne5 {
+        position: absolute;
+        left: 37%;
+        top: 67%;
+    }
+
+    .ligne6 {
+        position: absolute;
+        left: 45%;
+        top: 67%;
+    }
+
+    .ligne7 {
+        position: absolute;
+        left: 31%;
+        top: 90%;
+    }
+
+    .ligne8 {
+        position: absolute;
+        left: 41%;
+        top: 90%;
+    }
+
+    .ligne9 {
+        position: absolute;
+        left: 53%;
+        top: 90%;
+    }
+
+
+
+
+
+
+
